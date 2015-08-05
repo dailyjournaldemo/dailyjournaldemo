@@ -1,0 +1,22 @@
+{
+  "name": "dailyjournaldemo",
+  "version": "1.0.0",
+  "description": "Daily Journal Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "testdemo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dailyjournaldemo/dailyjournaldemo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "cgleeson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dailyjournaldemo/dailyjournaldemo/issues"
+  },
+  "homepage": "https://github.com/dailyjournaldemo/dailyjournaldemo"
+}
